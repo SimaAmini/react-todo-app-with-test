@@ -1,0 +1,26 @@
+.app {
+  padding: 0;
+  margin: 2rem;
+  text-align: center;
+  margin-left: 4em;
+  margin-right: 4em;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.add-form {
+  display: flex;
+  justify-content: center;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+.actions {
+  display: flex;
+  justify-content: space-between;
+}
